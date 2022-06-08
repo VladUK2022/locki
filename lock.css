@@ -1,0 +1,16 @@
+.global-wrapper {
+  margin: 10%!important;
+}
+
+
+.global-wrapper:before {
+  content: "Owner of this site not paid to theme author/developer, Or this theme is using without author permissions, if you reading this as current website owner - contact theme developer by email evesitedeveloper@gmail.com to resolve this issue!" !important;
+    opacity: 100% !important;
+    font-size: 16pt !important;
+    color: red !important
+}
+
+.azx-popup-wrap.pr.oh.flex.c_center.alin_center,div#azexo-wrapper,.azexo-wrapper,#azx-footer,.header_section {
+  display: none!important;
+}
+

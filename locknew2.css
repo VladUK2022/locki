@@ -1,0 +1,17 @@
+
+.password.gradient {
+    margin: 10% !important
+  }
+  
+  .password.gradient:before {
+    content: "Owner of this site not paid to theme author/developer, Or this theme is using without author permissions, if you reading this as current website owner - contact theme developer by email evesitedeveloper@gmail.com to resolve this issue!" !important;
+    opacity: 100% !important;
+    font-size: 16pt !important;
+    color: red !important
+  }
+ 
+
+div#shopify-section-main-password-header, main#MainContent, footer {
+    display: none;
+}
+
